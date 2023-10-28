@@ -1,2 +1,2 @@
-console.log("Hello World!\n");
+console.log("Hello World de la versión 2!\n");
 
